@@ -1,6 +1,9 @@
 first
 branchMain
+<<<<<<< HEAD
 branchSub1-1
 branchSub1-2
+=======
+>>>>>>> 34450e34b47423b8889a3972867ec44955f8f52a
 branchSub2
 branchSub2-2
