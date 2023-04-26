@@ -1,6 +1,2 @@
 first
 branchMain
-branchSub1-1
-branchSub1-2
-branchSub2
-branchSub2-2
