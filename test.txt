@@ -1,2 +1,3 @@
 dev_home 1
 dev_home_ui 1
+dev_home_server 1
